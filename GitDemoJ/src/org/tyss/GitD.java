@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class GitD {
 	@Test
 	public void demo() {
-		System.out.println("Hi");
+		System.out.println("Hi  hello");
 	}
 
 }
